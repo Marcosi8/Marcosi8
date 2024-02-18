@@ -56,27 +56,3 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=558881647724)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcoskz_)
 [![VK](https://img.shields.io/badge/-VK-4680C2?style=flat-square&logo=vk&logoColor=white&logoWidth=40)](https://vk.com/850126684)
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <ul>
-        <li>Email: marcosrian494@gmail.com</li>
-    </ul>
-</body>
-</html>
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha Música Favorita</title>
-</head>
-<body>
-    <h1>Minha Música Favorita</h1>
-    <iframe src="https://open.spotify.com/embed/track/5T8EDUDqKcs6OSOwEsfqG7?si=5VWm4_SkT32DDE48dVVs0A" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-</body>
-</html>

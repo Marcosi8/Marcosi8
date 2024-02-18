@@ -21,7 +21,7 @@
 🚀 I'm currently exploring the world of web and mobile development. 
 
 🎓 Electricity student.
-
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-CA472C?style=flat-square&logo=autodesk&logoColor=white)
 ## Tecnologias e Ferramentas
 
 ### Linguagens de Programação

@@ -6,7 +6,9 @@
 
 <h1 align="center">
 
-### HELLO WORLD! 🌎 I'm Marcos Oliveira!
+### HELLO WORLD! 🌎 I'm Marcos Oliveira! 
+
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=suaperfil.suarepositorio)
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
@@ -47,6 +49,13 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+
+- **HTML:** ![Progresso](https://progress-bar.dev/70/)
+- **Node.js:** ![Progresso](https://progress-bar.dev/80/)
+- **JavaScript:** ![Progresso](https://progress-bar.dev/75/)
+- **C++:** ![Progresso](https://progress-bar.dev/40/)
+- **Python:** ![Progresso](https://progress-bar.dev/60/)
+- **Java:** ![Progresso](https://progress-bar.dev/85/)
 
 ## Let's Connect! 
 

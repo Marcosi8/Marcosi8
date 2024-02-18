@@ -14,6 +14,7 @@
 
 ### Music 🎵
 
+[![Spotify](https://user-images.githubusercontent.com/1234567/1234567/spotify-badge.svg)](link_para_sua_playlist_ou_perfil_no_spotify)
 [![Music](https://spotify-playlist-image-url)](https://open.spotify.com/playlist/3YayEtf9FATye9HRQo8rRt)
 
 

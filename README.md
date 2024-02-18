@@ -19,7 +19,7 @@
 [![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/31nt56dv5s3l7tiep3cuwx3iqrda?si=W55la8HgQNuyzUHnZX-0oA)
 [![Playlist no Spotify](https://img.shields.io/badge/-Playlist%20no%20Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3YayEtf9FATye9HRQo8rRt)
 
-!https://open.spotify.com/track/3uEZYct8UvFpQLWddCotUE?si=t3a1Gi4zRY-VUUw5RZCZVQ
+[![Spotify] (https://open.spotify.com/track/3uEZYct8UvFpQLWddCotUE?si=t3a1Gi4zRY-VUUw5RZCZVQ).
 
 🚀 I'm currently exploring the world of web and mobile development. 
 

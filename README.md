@@ -56,3 +56,22 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=558881647724)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcoskz_)
 [![VK](https://img.shields.io/badge/-VK-4680C2?style=flat-square&logo=vk&logoColor=white&logoWidth=40)](https://vk.com/850126684)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meus Contatos</title>
+</head>
+<body>
+    <h1>Meus Contatos</h1>
+    <ul>
+        <li>Email: seu-email@example.com</li>
+        <li>Instagram: <a href="https://www.instagram.com/seu-usuario/">Seu Usuário</a></li>
+        <li>WhatsApp: +55 123456789</li>
+        <li>VK: <a href="https://vk.com/seu-usuario">Seu Usuário</a></li>
+        <!-- Adicione mais contatos conforme necessário -->
+    </ul>
+</body>
+</html>

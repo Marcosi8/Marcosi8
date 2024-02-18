@@ -14,7 +14,9 @@
 
 ### Music 🎵
 
-[![Spotify](https://user-images.githubusercontent.com/1234567/1234567/spotify-badge.svg)](link_para_sua_playlist_ou_perfil_no_spotify)
+
+🎸  [Queen] (https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d?si=CdE3HvPnQw2ULXJ347mmhg) e [Aria](https://open.spotify.com/artist/0ICn3Cbc4mMeLmTvwnqXYu?si=l7X37G9gRNeoQlru9ufPiQ).
+[![Spotify](https://user-images.githubusercontent.com/1234567/1234567/spotify-badge.svg)](https://open.spotify.com/user/31nt56dv5s3l7tiep3cuwx3iqrda?si=vogbsfTbTyCckcpsIDnh0Q)
 [![Music](https://spotify-playlist-image-url)](https://open.spotify.com/playlist/3YayEtf9FATye9HRQo8rRt)
 
 

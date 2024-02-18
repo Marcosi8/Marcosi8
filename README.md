@@ -19,7 +19,7 @@
 [![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/31nt56dv5s3l7tiep3cuwx3iqrda?si=W55la8HgQNuyzUHnZX-0oA)
 [![Playlist no Spotify](https://img.shields.io/badge/-Playlist%20no%20Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3YayEtf9FATye9HRQo8rRt)
 
-[![Minha Música Favorita](https://i.scdn.co/image/ab67616d00001e027c39dd133836c2c1c87e34d6)](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7?si=BBl1I8xNSJ-NXzur9iLicw)
+[![Minha Música Favorita](https://i.scdn.co/image/ab67616d00001e027c39dd133836c2c1c87e34d6)](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7?si=BBl1I8xNSJ-NXzur9iLicw) **Don't Stop Me Now**
 
 🚀 I'm currently exploring the world of web and mobile development. 
 

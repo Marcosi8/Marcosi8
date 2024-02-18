@@ -47,6 +47,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+<img src="https://i.ibb.co/G50SkJL/main-image-star-forming-region-carina-nircam-final-5mb.jpg" width="300"/>
+
 ## Let's Connect! 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)

@@ -47,8 +47,28 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<img src="https://i.ibb.co/G50SkJL/main-image-star-forming-region-carina-nircam-final-5mb.jpg" width="300"/>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Most Used Programming Languages</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="panel">
+    <h2>Most Used Programming Languages</h2>
+    <ul>
+      <li>JavaScript</li>
+      <li>Python</li>
+      <li>Java</li>
+      <li>C#</li>
+      <li>C++</li>
+      <li>Swift</li> <!-- Nova linguagem adicionada -->
+    </ul>
+  </div>
+</body>
+</html>
 ## Let's Connect! 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-perfil)

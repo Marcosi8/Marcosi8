@@ -28,7 +28,7 @@
 🎓 Electricity student.
 
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-CA472C?style=flat-square&logo=autodesk&logoColor=white)
-![Cadsimu](https://img.shields.io/badge/-Cadsimu-007396?style=flat-square&logo=html5&logoColor=white)
+![Cadsimu](https://img.shields.io/badge/-CADeSIMU-007396?style=flat-square&logo=html5&logoColor=white)
 ![Elétrica](https://img.shields.io/badge/-El%C3%A9trica-yellow?style=flat-square&logoColor=white)
 ## Tecnologias e Ferramentas
 

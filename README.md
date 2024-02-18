@@ -6,13 +6,13 @@
 
 <h1 align="center">
 
-### HELLO WORD! 🌎 I'm Marcos Oliveira!
+### HELLO WORLD! 🌎 I'm Marcos Oliveira!
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
 </h1>
 
-### Música favorita 🎵
+### Music 🎵
 
 [![Music](https://spotify-playlist-image-url)](https://open.spotify.com/playlist/3YayEtf9FATye9HRQo8rRt)
 

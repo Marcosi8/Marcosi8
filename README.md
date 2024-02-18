@@ -16,7 +16,7 @@
 
 [![Music](https://spotify-playlist-image-url)](https://open.spotify.com/playlist/3YayEtf9FATye9HRQo8rRt)
 
-### :hammer_and_wrench:LINGUAGENS/FERRAMENTAS QUE ESTUDO/USO:
+### :hammer_and_wrench:In learning 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 

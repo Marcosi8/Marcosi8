@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-  <img src="https://i.ibb.co/G50SkJL/main-image-star-forming-region-carina-nircam-final-5mb.jpg" width="100"/>
+  <img src="https://i.ibb.co/G50SkJL/main-image-star-forming-region-carina-nircam-final-5mb.jpg" width="300"/>
 
 </div>
 

@@ -61,10 +61,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meus Contatos</title>
-</head>
-<body>
-    <h1>Meus Contatos</h1>
     <ul>
         <li>Email: marcosrian494@gmail.com</li>
     </ul>
